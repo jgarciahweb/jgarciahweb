@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓️ Actualmente soy un estudiante de CFGS en Desarrollo de aplicaciones Web<br>🖥️ La mayor parte de mis proyectos estan desarrollados en Javascript<br>👨‍💻️ Frontend developer<br>
+👨‍🎓️ Actualmente soy un estudiante de CFGS en Desarrollo de aplicaciones Web<br>👨‍💻️ Fullstack developer<br>
 
 
 ## 🌐 Socials:
