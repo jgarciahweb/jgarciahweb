@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓️ Actualmente soy un estudiante de CFGS en Desarrollo de aplicaciones Web<br>👨‍💻️ Fullstack developer<br>
+👨‍🎓️ Experiencia en Java y C#<br>👨‍💻️ Bakcend developer<br>
 
 
 ## 🌐 Socials:
