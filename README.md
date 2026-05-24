@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓️ Experiencia en Java y C#<br>👨‍💻️ Bakcend developer<br>
+👨‍🎓️ Experiencia en Java y C#<br>👨‍💻️ Backend developer<br>
 
 
 ## 🌐 Socials:
